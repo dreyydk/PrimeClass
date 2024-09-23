@@ -13,11 +13,11 @@ It has a modern and attractive design with a focus on user experience, and featu
 
 ## 📷 Screenshots
 
-![image (6)](https://github.com/user-attachments/assets/cee5e54c-64cb-4cb4-8b8b-f94e6c3531c1)
+![image (7)](https://github.com/user-attachments/assets/42545a97-ad60-44a5-8b7a-67d73754916d)
 
 ## Demonstration
 
-To check the project deployment, follow this link: 
+To check the project deployment, follow this link: https://primeclass-rental.vercel.app
 
 ## Authors
 
