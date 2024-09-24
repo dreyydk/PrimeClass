@@ -9,7 +9,7 @@ It has a modern and attractive design with a focus on user experience, and featu
 
 **Front-end:** Next.js & TailwindCSS.
 
-**Back-end:** Firebase, CarsAPI & ImaginStudio API.
+**Back-end:** CarsAPI & ImaginStudio API.
 
 ## 📷 Screenshots
 
